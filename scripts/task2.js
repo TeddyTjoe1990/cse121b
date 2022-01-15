@@ -27,7 +27,7 @@ document.querySelector('img').setAttribute('src', myPicture);
 /* ARRAYS */
 
 // Step 1: declare and instantiate an array variable to hold your favorite foods
-const favoriteFoods = ['Vegetables', 'Meat Balls', 'Chicken', 'Pizza'];
+const favoriteFoods = ['Vegetables', ' Meat Balls', ' Chicken', ' Pizza'];
 
 // Step 2: place the values of the favorite foods variable into the HTML file
 document.querySelector('#food').textContent = favoriteFoods;
